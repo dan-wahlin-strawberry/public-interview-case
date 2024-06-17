@@ -1,2 +1,8 @@
 # public-interview-case
-Interview case clone
+Technical interview case
+
+## Installation
+```bash
+npm install
+npx playwright install
+```
